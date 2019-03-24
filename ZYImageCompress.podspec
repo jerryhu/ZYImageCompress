@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/jerryhu/ZYImageCompress.git", :tag => "#{s.version}" }
 
   s.source_files  = "ZYImageCompress/**/*.{h,m}"
+  s.framework  = "UIKit"
 end
