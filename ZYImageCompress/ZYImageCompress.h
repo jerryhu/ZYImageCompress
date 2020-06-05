@@ -28,3 +28,4 @@
 #import "UIImage+ZYCompressIB.h"
 #import "UIImage+ZYCompressThumb.h"
 #import "UIImage+ZYCompressMoments.h"
+#import "UIImage+ZYCompressJPEG.h"

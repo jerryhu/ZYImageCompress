@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZYImageCompress"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "JPEG image compressor support with an UIImage category"
 
   s.description  = <<-DESC
